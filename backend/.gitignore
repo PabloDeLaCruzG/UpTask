@@ -1,0 +1,50 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# Packages
+*.tgz
+
+# Debugger and profiling
+*.pid
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Yarn
+.yarn-integrity
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.pnp.*
